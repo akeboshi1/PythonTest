@@ -1,0 +1,8 @@
+# main.py
+
+def func():
+    print("Hello from func()")
+        
+if __name__ == '__main__':
+    print("Running main.py")
+    func()
