@@ -1,5 +1,7 @@
+import main
 import matplotlib.pyplot as plt
 
+main.func()
 # 绘制一个简单的线图
 x = [1,2,3]
 y = [2,4,1]
